@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh Chauhan</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" alt="Coding gif" align="right" width="400" >
 
 - 🔭 I’m currently working in *CrosstheSkylimits Bhopal*
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-singh-chauhan-524544235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnykurmi" height="30" width="40" /></a>
-<a href="https://instagram.com/__singhadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnykurmi_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-singh-chauhan-524544235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshSingh" height="30" width="40" /></a>
+<a href="https://instagram.com/__singhadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshSingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh0133&show_icons=true&locale=en&layout=compact" alt="adarshSingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh0133&show_icons=true&locale=en" alt="sunnykurmi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh0133&show_icons=true&locale=en" alt="adarshSingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0133&theme=dark" alt="sunnykurmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0133&theme=dark" alt="adarshSingh" /></p>
