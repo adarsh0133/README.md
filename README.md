@@ -2,9 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" alt="Coding gif" align="right" width="400" >
 
-- 🔭 I’m currently working in *CrosstheSkylimits Bhopal*
-
-- 🌱 I’m currently learning *ReactJs , NextJs*
+- 🌱 I’m currently learning *ReactJs , NextJs, Python*
 
 - 💬 Ask me about *React , Next, Gsap , framermotion, ScrollTrigger , Locomotive , Tailwind*
 
